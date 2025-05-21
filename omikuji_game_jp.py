@@ -1,3 +1,11 @@
+"""
+おみくじゲーム (Omikuji Game)
+Developed using Amazon Q Developer CLI
+
+Copyright (c) 2025 hepts
+Licensed under MIT License
+"""
+
 import pygame
 import sys
 import random
