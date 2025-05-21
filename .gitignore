@@ -1,0 +1,1 @@
+# Python関連\n__pycache__/\n*.py[cod]\n*.class\n*.so\n.Python\nenv/\nbuild/\ndevelop-eggs/\ndist/\ndownloads/\neggs/\n.eggs/\nlib/\nlib64/\nparts/\nsdist/\nvar/\n*.egg-info/\n.installed.cfg\n*.egg\n\n# macOS関連\n.DS_Store\n.AppleDouble\n.LSOverride\n._*\n\n# IDE関連\n.idea/\n.vscode/\n*.swp\n*.swo
