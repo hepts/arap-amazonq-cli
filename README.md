@@ -1,10 +1,39 @@
-# おみくじゲーム
+# Omikuji Game / おみくじゲーム
 
-Pygameで作成した日本風のおみくじゲームです。
+## Overview
+
+This is a Japanese fortune-telling game (Omikuji) created with Pygame. The game simulates the experience of drawing traditional Japanese fortune slips at shrines and temples. With beautiful Japanese-style design and visual effects, you can enjoy the fun of drawing Omikuji.
+
+Key features:
+- Draw Omikuji one at a time
+- Draw three Omikuji in succession
+- Visual animation effects
+- Japanese-style interface design
+
+## Development Environment
+
+- Python 3.x
+- Pygame 2.0.0 or higher
+
+## How to Use
+
+```bash
+# Install required libraries
+pip install -r requirements.txt
+
+# Run the game
+python omikuji_game_jp.py
+```
+
+## Development Tool
+
+This project was developed using **Amazon Q Developer CLI**. Amazon Q Developer is an AI assistant that helps with code creation, understanding, and transformation.
+
+---
 
 ## 概要
 
-このゲームは、伝統的な日本のおみくじを引く体験をシミュレートしています。美しい和風デザインと視覚効果で、おみくじを引く楽しさを味わえます。
+このゲームは、伝統的な日本のおみくじを引く体験をシミュレートしています。神社やお寺でおみくじを引くような体験ができます。美しい和風デザインと視覚効果で、おみくじを引く楽しさを味わえます。
 
 主な機能：
 - 単発でおみくじを引く
@@ -31,7 +60,7 @@ python omikuji_game_jp.py
 
 このプロジェクトは **Amazon Q Developer CLI** を使用して開発されました。Amazon Q Developer は、コードの作成、理解、変換を支援するAIアシスタントです。
 
-## ライセンス
+## License / ライセンス
 
 MIT License
 
